@@ -1,0 +1,8 @@
+1. django-admin startproject bookmyseat # to start a new project
+2. python manage.py startapp users # to start a new app
+3. python manage.py makemigrations # to search for an errors
+4. python manage.py migrate # to apply the migrations
+5. python manage.py runserver # to start the server
+6. python manage.py createsuperuser # to create a superuser
+7. python manage.py test # to run the tests
+
